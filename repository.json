@@ -9,7 +9,7 @@
       "flags": [ "map" ],
       "required_app_version": "2.3.0.0",
       "uid": "ff5cd_strizer86",
-      "link": "https://github.com/strizer86/FF5CD_Tracker/raw/main/ff5cd_strizer86.zip",
+      "link": "https://github.com/strizer86/FF5CD_Tracker/blob/main/ff5cd_strizer86.zip",
       "variants": [
         {
           "name": "Full Tracker",
