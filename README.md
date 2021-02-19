@@ -16,6 +16,8 @@ Everything functions like your standard emotracker pack for the most part with a
 The Hint tab allows for "checklist" style tracking of Path of the Void (PotV) hints, as well as barren areas & world hints. Direct hints can be tracked here or the map.
 The Boss Guide shows elemental weaknesses along with useful status effects. The player can toggle ones they have at the top and it will highlight the boss vulnerabilities.
 
+The World 1 & 2 "Lock/Open" options are set to match your seed settings. If world 2 is locked it will be opened when you have Adamantite & if world 3 is locked it will be opened upon beating ExDeath in world 2.
+
 End Goal
 
 The end goal of this pack was not only to help me learn the rando, but combine commonly used resources into a single spot without it looking convoluted.
