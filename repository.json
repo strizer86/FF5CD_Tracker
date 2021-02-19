@@ -16,9 +16,11 @@
         },
         {
           "name": "Slim Tracker",
+          "flags": [ ]
         },
         {
           "name": "Key Items",
+          "flags": [ ]
         }
       ]
     }
