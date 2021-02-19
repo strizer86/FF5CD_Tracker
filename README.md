@@ -4,9 +4,9 @@ Final Fantasy 5 Career Day Pack v 0.9.2.0
 What's in the Package?
 
 3 layouts to offer a variety of options based on player preference & knowledge.
-Full Tracker - Maps, Hint Tracker, & Boss guide. This is the absolute max amount of info and tracking available.
-Slim Tracker - Same items, bosses, & hints tracked as Full Tracker but without the tabs.
-Key Items - Minimalist layout featuring just the key items.
+- Full Tracker (Maps, Hint Tracker, & Boss guide. This is the absolute max amount of info and tracking available)
+- Slim Tracker (Same items, bosses, & hints tracked as Full Tracker but without the tabs)
+- Key Items (Minimalist layout featuring just the key items)
 
 *Future layouts planned to add void bosses
 
